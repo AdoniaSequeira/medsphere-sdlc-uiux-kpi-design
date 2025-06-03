@@ -1,7 +1,7 @@
  # 🩺 MedSphere: Medical Appointment Scheduling System  
 *Software Engineering Case Study*
 
-A comprehensive software engineering case study designed to simulate the development of a medical appointment scheduling system. This project demonstrates practical knowledge of the Software Development Lifecycle (SDLC), including requirements analysis, UI/UX design, system architecture, testing, and project planning.
+A comprehensive software engineering case study that simulates the design of a medical appointment scheduling system. Covers the full SDLC cycle—requirements gathering, UI/UX wireframes, KPIs, UML modeling, test planning, and system architecture. Built as part of the M.S. Computer Science program at GWU.
 
 ---
 
